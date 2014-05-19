@@ -1,0 +1,22 @@
+Hier werden alle Ideen vermerkt die ich zum Spiel habe!
+=======================================================
+
+Handeln:
+	-Jeder Spieler kann nur bis zu 5 Angebote offen haben
+		(Durch Ausbau der Stadt erweiterbar)
+	
+	-Als Warentransportmittel werden Schiffe verwendet, die nur eine bestimmte Menge an Waren aufnehmen
+	können
+		-Um Warn von anderen Spielern kaufen zu können muss man mit den Schiff die Waren abholen, wobei
+		man keine zeitlichen Einheiten hat
+	
+	-Um von Stadt zu Stadt zu gelangen muss man Geld bezahlen. 
+		-Spieler müssen vergleichen, was mehr bringt. Die Städte sind unterschiedlich weit von einander weg, weshalb
+		die Reisekosten unterschiedlich hoch sind.
+		
+		
+Hilfe:
+	-Hilfestellung müssen angepasst werden.
+	
+	-Formular für Tickets. 
+	

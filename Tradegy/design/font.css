@@ -1,0 +1,146 @@
+/* FONT CSS */
+
+/*===========================*/
+
+/*FONT*/
+
+a {
+
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+/* NAVI-FONT */ 
+
+#naviMenu a {
+    
+    font-family: Comic Sans MS;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+    
+}
+
+/* WRAPPER */
+
+#wrapper a {
+
+    font-family: Comic Sans MS;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+#wrapper h1 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#wrapper h2 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#wrapper h3 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+#wrapper h4 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+/* FORM */
+
+#form a {
+
+    font-family: Comic Sans MS;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+#form input {
+
+    font-family: Comic Sans MS;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+
+}
+
+#form h1 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#form h2 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#form h3 {
+
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+
+}

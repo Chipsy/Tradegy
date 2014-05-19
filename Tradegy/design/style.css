@@ -1,0 +1,135 @@
+/* MAIN CSS */
+
+/*===========================*/
+
+/* IMPORTS */
+
+@import url("navi.css");
+@import url("font.css");
+@import url("class.css");
+
+/*===========================*/
+
+body
+{
+
+background-color: #FFE6B0;
+
+}
+
+#website {
+
+    height: auto;
+    width: 1000px;
+    
+    margin: 0 auto;
+        
+}
+
+#header {
+
+    height: 200px;
+    width: 1000px;
+    top: 0;
+    
+    background-image: url(img/Holz.jpg);
+    background-repeat: repeat-x;
+    
+    text-align: center;
+    
+}
+
+#navi {
+
+    height: 50px;
+    width: 1000px;
+    
+    margin-top: 15px;
+    
+    background-color: #FFFFFF;
+    
+}
+
+#wrapper {
+
+    height: 500px;
+    width: 1000px;
+    
+    margin-top: 15px;
+    
+}
+
+#left {
+
+    height: 490px;
+    width: 680px;
+    
+    float: left;
+    
+    padding: 5px;
+    padding-left: 10px;
+    
+    background-color: #FFFFFF;
+    background-image: url(img/karte.png)
+    
+}
+
+#right {
+
+    height: 490px;
+    width: 275px;
+    
+    float: right;
+    
+    padding: 5px;
+    
+    background-color: #FFFFFF;
+        
+}
+
+#form {
+    
+    height: 490px;
+    width: 1000px;
+    
+    padding-top: 10px;
+    margin-top: 15px;
+    
+    text-align: center;
+    
+    background-color: #FFFFFF;
+    
+    
+}
+
+#info {
+
+    height: auto;
+    width: 1000px;
+
+    padding: 10px;
+    margin-top: 15px;
+
+    background-color: #FFFFFF;
+       
+}
+
+#info table {
+    
+    padding: 20px;
+    text-align: center;
+    
+}
+
+#footer {
+
+    height: 50px;
+    width: 1000px;
+    
+    margin-top: 15px;
+    
+    clear: both;
+    
+    background-color: #FFFFFF;
+    
+}

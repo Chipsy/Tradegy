@@ -1,0 +1,84 @@
+/* NAVI CSS */
+
+/*===========================*/
+
+#naviMenu {
+    
+    margin: 0;
+    padding: 0;
+    
+}
+
+#naviMenu ul {
+    
+    margin: 0;
+    padding: 0;
+    
+    line-height: 50px;
+    
+}
+
+#naviMenu ul li {
+
+    margin: 0;
+    padding: 0;
+    
+    float: left;
+    position: relative;
+    
+    list-style: none;
+    
+
+}
+
+#naviMenu ul li a {
+
+    height: 50px;
+    width: 180px;
+    
+    display: block;
+    
+    text-align: center;
+
+}
+
+/* LOGIN */
+
+#login {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+#login ul {
+
+    margin: 0;
+    padding: 0;
+
+    line-height: 50px;
+
+}
+
+#login ul li {
+
+    margin: 0;
+    padding: 0;
+
+    float: right;
+    position: relative;
+    
+    list-style: none;
+
+}
+
+#login ul li a {
+
+    height: 50px;
+    width: 180px;
+
+    display: block;
+
+    text-align: center;
+
+}
